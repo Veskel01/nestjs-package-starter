@@ -1,7 +1,7 @@
 {
   "name": "nestjs-package-starter",
   "version": "0.0.1",
-  "description": "Nestj.js package starter",
+  "description": "Nest.js package starter",
   "author": "Jakub Andrzejewski (Veskel01)",
   "license": "MIT",
   "main": "lib/index.js",
